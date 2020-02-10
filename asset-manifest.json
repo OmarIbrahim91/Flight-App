@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Flight-App/static/css/main.cfda8877.chunk.css",
+    "main.js": "/Flight-App/static/js/main.a6504b9f.chunk.js",
+    "main.js.map": "/Flight-App/static/js/main.a6504b9f.chunk.js.map",
+    "runtime-main.js": "/Flight-App/static/js/runtime-main.f914e1bc.js",
+    "runtime-main.js.map": "/Flight-App/static/js/runtime-main.f914e1bc.js.map",
+    "static/js/2.677bf8ce.chunk.js": "/Flight-App/static/js/2.677bf8ce.chunk.js",
+    "static/js/2.677bf8ce.chunk.js.map": "/Flight-App/static/js/2.677bf8ce.chunk.js.map",
+    "index.html": "/Flight-App/index.html",
+    "precache-manifest.d052c6b81cc322c0e37fb65a893c21dc.js": "/Flight-App/precache-manifest.d052c6b81cc322c0e37fb65a893c21dc.js",
+    "service-worker.js": "/Flight-App/service-worker.js",
+    "static/css/main.cfda8877.chunk.css.map": "/Flight-App/static/css/main.cfda8877.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f914e1bc.js",
+    "static/js/2.677bf8ce.chunk.js",
+    "static/css/main.cfda8877.chunk.css",
+    "static/js/main.a6504b9f.chunk.js"
+  ]
+}
